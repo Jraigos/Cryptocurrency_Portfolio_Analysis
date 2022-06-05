@@ -2,7 +2,7 @@
 
 The idea to create the crypto portfolio analysis tool was due to the growing interest of the people around the world about the cryptocurrency investment.
 
-This tool allows to the user to create a cryptocurrency portfolio based on the analysis of forecast simulations of the performance of different crypto coins, providing data and graphics that helps to decide what crypto-coins to include in the portfolio and the quantity of each one.
+This tool allows the user to create a cryptocurrency portfolio based on the analysis of forecast simulations of the performance of different crypto coins, providing data and graphics that helps to decide what crypto-coins to include in the portfolio and the quantity of each one.
 
 The data is provided by Coingecko trough API’s. 
 
